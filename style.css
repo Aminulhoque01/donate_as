@@ -1,0 +1,263 @@
+*{
+    font-family: 'poppins', sans-serif;
+    padding:0;
+    margin:0;
+}
+
+/*-------header style strat------*/
+.header{
+    background-image: linear-gradient(rgba(109, 109, 109, 0.486),rgba(0, 0, 0, 0.918)),url(images/donation12.png);
+    background-repeat:no-repeat;
+    background-size: cover;
+    height:120vh;
+    
+}
+.header h1{
+    font-size:4em;
+    font-weight:700;
+    color:white;
+    text-align: center;
+    padding-top:15%;
+}
+.header p{
+    font-size:20px;
+    font-weight:400;
+    text-align:center;
+    color:white;
+    padding:15px;
+    padding-bottom:5%;
+}
+.donate_button{
+    background-color: #FF5959;
+    color:white;
+    font-size:20px;
+    font-weight:500;
+    text-decoration: none;
+    margin-left:45%;
+    padding:10px 20px;
+    border-radius:5px;
+    
+
+}
+/*------header style end------*/
+
+/*-----Donate style strat-----*/
+
+.Donate h1{
+    font-size:2.8em;
+    font-weight:800;
+    text-align: center;
+    padding-top:10%;
+}
+.Donate p{
+    font-size:20px;
+    font-weight:500;
+    text-align:center;
+    padding:15px;
+    color:#4c4a4a;
+    
+}
+.donater-wrap{
+    display: flex;
+    width:50%;
+    margin:auto;
+
+}
+
+.donate_div1{
+    width:25%;
+    background-color: #fbeeee;
+    padding:4%;
+    margin:1%;
+    margin-top:5%;
+    border-radius: 5px;;
+    
+}
+.donate_div1 h1{
+    font-size:25px;
+    color:#4c4a4a;
+   
+}
+
+.donate_div2{
+    width:25%;
+    background-color: #fbeeee;
+    padding:4%;
+    margin:1%;
+    margin-top:5%;
+    border-radius: 5px;
+    border:2px solid #FF5959;
+    
+}
+.donate_div2 h1{
+    font-size:25px;
+    color:#4c4a4a;
+   
+}
+
+.donate_div3{
+    width:25%;
+    background-color: #fbeeee;
+    padding:4%;
+    margin:1%;
+    margin-top:5%;
+    border-radius: 5px;
+    
+}
+.donate_div3 h1{
+    font-size:25px;
+    color:#4c4a4a;
+   
+}
+
+.donate_div4{
+    width:25%;
+    background-color: #fbeeee;
+    padding:4%;
+    margin:1%;
+    margin-top:5%;
+    border-radius: 5px;
+    
+}
+.donate_div4 h1{
+    font-size:25px;
+    color:#4c4a4a;
+   
+}
+
+.donate_div5{
+    width:25%;
+    background-color: #fbeeee;
+    padding:4%;
+    margin:1%;
+    margin-top:5%;
+    border-radius: 5px;
+    
+}
+.donate_div5 h1{
+    font-size:25px;
+    color:#4c4a4a;
+   
+}
+
+.intput_div{
+    margin:auto;
+    width:50%;
+    padding:2%;
+    padding-top:10%;
+    
+    
+
+}
+.intput_div input{
+    height:100%;
+    width:100%;
+    border:none;
+    font-size:17px;
+    border-bottom:2px solid silver;
+    
+}
+
+.amount span{
+    width:50%;
+   margin-left:40%;
+   text-decoration:none;
+   font-size:17px;
+   font-weight:600;
+   color:rgb(119, 117, 117);
+  
+}
+
+/*-------Donate style end------*/
+
+/*---------donate_plan style strat-----*/
+.doate_plan h1{
+    font-size:2.7em;
+    font-weight:800;
+    text-align: center;
+    padding-top:12%;
+}
+.doate_plan p{
+    font-size:20px;
+    font-weight:500;
+    text-align:center;
+    padding:15px;
+    color:#4c4a4a;
+    
+}
+
+.donateplan_wrap{
+    display: flex;
+    width:80%;
+    margin:auto;
+    padding-top:5%;
+    
+}
+
+.food{
+    width:31%;
+    height:300px;
+    padding:40px;
+    background-color:#EDF5F6;
+    margin:1%;
+    border-radius: 10px;
+    
+}
+.food h2{
+    font-size:25px;
+    padding-top:30px;
+    padding-left:5%;
+}
+.food p{
+    text-align:justify;
+    font-size:17px;
+    
+}
+.icone i {
+    font-size:600%;
+}
+
+.shelter{
+    width:31%;
+    height:300px;
+    padding:40px;
+    background-color:#FFEEEE;
+    margin:1%;
+    border-radius: 10px;
+}
+.shelter h2{
+    font-size:25px;
+    padding-top:30px;
+    padding-left:5%;
+}
+.shelter p{
+    text-align:justify;
+    font-size:17px;
+    
+}
+.icone2 i {
+    font-size:600%;
+}
+.education{
+    width:31%;
+    height:300px;
+    padding:40px;
+    background-color:#FFF4D6;
+    margin:1%;
+    border-radius: 10px;
+    
+}
+.education h2{
+    font-size:25px;
+    padding-top:30px;
+    padding-left:3%;
+}
+.education p{
+    text-align:justify;
+    font-size:17px;
+    
+}
+.icone3 i {
+    font-size:600%;
+}
+/*---------donate_plan style end-----*/
