@@ -262,7 +262,7 @@
 }
 /*---------donate_plan style end-----*/
 
-/*------------our team style----------*/
+/*------------our team style strat----------*/
 .our_team h1{
     font-size:2.7em;
     font-weight:800;
@@ -312,4 +312,72 @@
     text-align:justify;
     
 
+}
+/*------------our team style end----------*/
+/*------------update style start----------*/
+.update h1{
+    font-size:2.7em;
+    font-weight:800;
+    text-align: center;
+    padding-top:12%;
+}
+.update p{
+    font-size:20px;
+    font-weight:500;
+    text-align:center;
+    padding:15px;
+    color:#4c4a4a;
+    
+}
+.Subscribe{
+    width:50%;
+    margin:auto;
+    padding:8%;
+    background-color: #FFF4D6;
+    margin-top:5%;
+}
+.Subscribe input{
+   margin-left:25%;
+   height:40px;
+   width:350px;
+   border:none;
+   padding:1%;
+   background-color:#D9D9D9 ;
+   border-radius: 5px;
+}
+.new_button{
+    background-color: #FF5959;;
+    padding:16px 20px;
+    text-decoration: none;
+    font-weight:700px;
+    margin-left: 30%;
+    position:absolute;
+    font-size:18px;
+    font-weight: 600;
+    color:white;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+/*------------update style end----------*/
+
+/*--------------------footer style-------------*/
+footer{
+    margin-top:10%;
+    background-color:#0B0D17 ;
+    padding:5%;
+    
+}
+footer h1{
+    font-size:30px;
+    font-weight: 700;
+    text-align: center;
+    color:#FF5959;
+   
+}
+
+footer p{
+    text-align: center;
+    font-size:14px;
+    padding:2%;
+    color:white;
 }
