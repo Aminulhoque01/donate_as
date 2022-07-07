@@ -70,7 +70,8 @@
     padding:4%;
     margin:1%;
     margin-top:5%;
-    border-radius: 5px;;
+    border-radius: 5px;
+    box-shadow: 3px 4px 8px 6px rgb(105, 103, 103);
     
 }
 .donate_div1 h1{
@@ -87,7 +88,7 @@
     margin-top:5%;
     border-radius: 5px;
     border:2px solid #FF5959;
-    
+    box-shadow: 3px 4px 8px 6px rgb(105, 103, 103);
 }
 .donate_div2 h1{
     font-size:25px;
@@ -102,7 +103,7 @@
     margin:1%;
     margin-top:5%;
     border-radius: 5px;
-    
+    box-shadow: 3px 4px 8px 6px rgb(105, 103, 103);
 }
 .donate_div3 h1{
     font-size:25px;
@@ -117,7 +118,7 @@
     margin:1%;
     margin-top:5%;
     border-radius: 5px;
-    
+    box-shadow:3px 4px 8px 6px rgb(105, 103, 103);
 }
 .donate_div4 h1{
     font-size:25px;
@@ -132,7 +133,7 @@
     margin:1%;
     margin-top:5%;
     border-radius: 5px;
-    
+    box-shadow: 3px 4px 8px 6px rgb(105, 103, 103);
 }
 .donate_div5 h1{
     font-size:25px;
